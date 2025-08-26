@@ -41,7 +41,7 @@ body {
  
     display: flex;
     justify-content: flex-end;
-    overflow: scroll;
+    overflow: auto;
     margin: 20px,0;
 }
 
